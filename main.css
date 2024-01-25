@@ -1,13 +1,28 @@
 html, body {
     font-family: 'Times New Roman', serif;
-    margin: 0;
+    margin-left: 1vh;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
     padding: 0;
     color: #efe1e7;
     background-color: #111111;
 }
+
+h4{
+    padding: 0;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+
+
+}
+
 p {
     padding: 0;
-    margin: 0;
+    margin-left: 1vh;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 a {
     text-decoration: none;
